@@ -28,4 +28,4 @@ This beginner-friendly project is designed for those who are new to programming.
 ### Running the Game
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Number-Guessing-Game.git
+   git clone https://github.com/your-username/Number-Guessing-Game.git](https://github.com/Ravichandu2003/Python-Small-Projects-Practice/blob/ae7101fe5bc44fe948c04df2824a4a0cbd6b518e/GuessingNumber/GuessingNumber.py
